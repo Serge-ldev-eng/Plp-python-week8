@@ -1,0 +1,20 @@
+MY TOOLKIT PLAN - Week 8 Final
+
+1. Tools Chosen (3 Tools):
+- Tool 1: Number Guessing Game - A game where the computer picks a random number and the user has to guess it with hints.
+- Tool 2: To-Do List Manager - A simple list where user can add, view, and delete tasks that persist while program runs.
+- Tool 3: Simple Calculator - A tool that asks for two numbers and an operation and returns the result.
+
+2. Exact Menu Text My Program Will Show:
+
+Welcome to My Daily Toolkit!
+
+1. Number Guessing Game
+2. To-Do List Manager
+3. Simple Calculator
+4. Quit
+
+3. Concepts Each Tool Will Use:
+- Number Guessing Game: loop (while loop for guesses), conditionals (if/elif/else for high/low), f-string for messages, random module.
+- To-Do List Manager: list that changes (tasks list with add/remove), loop (for loop to display), conditionals (if task exists), f-string.
+- Simple Calculator: conditionals (if/elif/else to choose operation), f-string to show result, try/except to avoid crash.
